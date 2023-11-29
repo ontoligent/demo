@@ -10,16 +10,16 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: team.qmd
+        text: Team
       - href: variorum.qmd
         text: Variorum
-      - href: googlef2b65577a3d44b99.html
-        text: Google
   open-graph: true
-
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
