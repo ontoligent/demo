@@ -1,5 +1,79 @@
+<<<<<<< HEAD
 body {}
 
 .pull-quote {
 
+=======
+
+.navbar-brand img {
+    max-height: 80px;  
+    width: auto;
+}
+.navbar {
+    min-height: 150px;  
+    background-color: #fdf1e1;
+    border-bottom: 1px solid black;
+}
+
+.home-page-content::before {
+    content: "";  
+    position: absolute;  
+    top: -5; 
+    left: 0;  
+    right: 0;
+    height: 80%;  
+    margin-top: -34px;
+    
+    background-image: url('resources/Comalcalco-2.png');
+    background-size: cover; 
+    background-position: center;  
+    background-repeat: no-repeat; 
+    
+    z-index: -1;  
+}
+
+.body {
+    position: relative;  
+}
+
+.col-half::before {
+    content: "";  
+    position: absolute;  
+    top: 700px; 
+    left: -260px;  
+    width: 90%; 
+    height: 600px;  
+
+    background-image: url('resources/tortillas.jpeg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    z-index: 1;  
+}
+
+.col-half {
+    position: relative;  
+}
+.Welcome-text {
+    position: absolute; 
+    top: 130%;
+    left: 780px; 
+    width: 30%;
+}
+
+.title {
+    position: absolute; 
+    top: 105%;
+    left: 50px; 
+    width: 30%; 
+    
+}
+
+.text {
+    position: absolute; 
+    top: 210%; 
+    left: 50px; 
+    width: 90%;
+>>>>>>> 53b3126dd2b0229d0d8949d486379f9aef53578d
 }

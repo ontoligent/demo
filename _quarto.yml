@@ -5,19 +5,20 @@ project:
   resources: resources
 
 website:
-  title: "The Multepal Project"
+  title: "Multepal"
   navbar:
-    left:
+    logo: "resources/logo.png"
+    right:
       - href: index.qmd
         text: Home
       - href: projects.qmd
         text: Projects
       - href: team.qmd
-        text: Team
+        text: People
       - href: variorum.qmd
         text: Variorum
-  open-graph: true
-
+      - href: about.qmd
+        text: About
 format:
   html:
     theme: cosmo
