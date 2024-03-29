@@ -1,0 +1,57 @@
+# Publications
+
+<!-- El equipo de investigadores del proyecto Multepal mantiene un activo ritmo de trabajo. Aquí mencionamos algunas actividades recientes, organizadas por año: -->
+
+## 2022
+
+"Exploring the Popol Vuh with Allison Bigelow and Raf Alvardo." UVA Data Points, 1o de octubre 2022. Disponible en Apple podcasts, Castos, Spotify, YouTube y demás plataformas.
+
+“Uq’ijol ri loq’olaj Popol Wuj (El día del Popol Wuj).” 30 May 2022. Multepal Project, University of Virginia (Zoom). Presentaciones de: Aj Xol Héctor Rolando, Ajpub' Pablo García Ixmatá, Saqijix Candelaria López Ixcoy, Beatriz Par Sapón, Miguel Óscar Chan Dzul, Irma Pomol Cahum, Miriam Utiz May, María Cristina Pech Can, Leídy María Couoh Pomol, Karen Solis Ojeda, Carlos Daniel Cámara Braga, Allison Bigelow y Aldo Barriente. Enlace de YouTube. Bajar las diapositivas.
+
+Allison Bigelow and Rafael Alvarado. "Methods and Results in Language Documentation Using Literary Digital Editions." NSF-NEH Dynamic Language Infrastructure-Documenting Endangered Languages. 2022-2024, $249,101. Award information: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2109679.
+
+Noticias sobre la beca: UVA Today (18 de febrero, 2022), UVA Data Science (13 de octubre, 2021) Charlottesville Daily Progress (9 de octubre, 2021), Inside Arts & Sciences (8 de octubre, 2021).
+
+## 2021
+
+Rafael Alvarado, Aldo Barriente, and Allison Bigelow. "Popol Wujs: Culture, Complexity, and the Encoding of Maya Cosmovisión." Ethnohistory 68.4 (2021): 493-518.
+
+Noticias sobre Aldo Barriente: UVA Today (3 de abril, 2021)
+
+Beatriz Par Sapón, Saqijix Candelaria López Ixcoy, Ajpub' Pablo García Ixmatá, and Aj Xol Héctor Rolando. “Mesa redonda: Los retos del Maya para elaborar una versión infantil del Popol Wuj." Institute of Global Humanities and Cultures, Global South Initiative, University of Virginia, 13 April 2021 (Zoom). Slides translated by Lauren Mason and Sarah Alverson. Enlace de YouTube. Bajar las diapositivas.
+
+Miguel Óscar Chan Dzul, Miriam Uitz May, and Irma Yolanda Pomol Cahum. Roundtable presentations on "U túumben Póopol Wuuj: Una versión electrónica.” Papers: “Retos para la lengua maya,” “El audiovisual: herramienta para el aprendizaje significativo” and “Producción de materiales en lengua maya.” La codificación del pensamiento, la literatura y la cosmovisión maya: Retos y oportunidades para investigadores indígenas en el sur global. Institute of Global Humanities and Cultures, Global South Initiative, University of Virginia, 13 April 2021 (Zoom). Slides translated by Alisa Negrón Damsky and Natalie Axelrod. Enlace de YouTube. Bajar las diapositivas.
+
+Allison Bigelow, “Repensando el archivo colonial: el saber indígena y las fuentes misionarias.” Class visit to HISP 494, Literatura prehispánica, Elena Deanda Camacho, Washington College, Chesterfield, MD (Zoom), 29 March 2021.
+
+Allison Bigelow, “Lessons Learned from DH Teaching: The Multepal Project at the University of Virginia.” Conference on Latin American History (AHA) Teaching Section, “Using Digital Humanities in Your Teaching.” Presentations by Ernesto Bassi Arevalo and Allison Bigelow. 25 March, 2021 (Zoom).
+
+Allison Bigelow, “Indigenous Studies and Digital Humanities: The Multepal Project at the University of Virginia.” Digital Early America. Society of Early Americanists, Atlanta, 7-10 March 2021.
+
+## 2020
+
+Aj Xol Héctor Rolando. "Significados de 'tiempo' en el Popol Wuj." Invited lecture, University of Virginia Mellon Indigenous Arts Initiative. Charlottesville, VA (Zoom), November 12, 2020. Watch the video here (passcode: 2@K+#nQQ).
+
+Catherine Addington, Karina A. Baptista, Rafael C. Alvarado, and Allison Margaret Bigelow. “Decolonizing the Digital Humanities: Remediating the Popol Wuj.” Transformative Digital Humanities: Challenges and Opportunities, edited by Mary Balkun and Martha Deyrup (New York: Routledge, 2020), 7-17.
+
+Allison Margaret Bigelow and Rafael C. Alvarado. “Digital Resources: Multepal, Mesoamerican Studies, and the Popol Wuj.” In Oxford Research Encyclopedia of Latin American History. Oxford University Press. Article published June 2020. doi: https://doi.org/10.1093/acrefore/9780199366439.013.799.
+
+Aldo Barriente, "Indigenous Literatures of the Americas: A CTS Implementation of the Popol Wuj, the Maya K’iche’ Book of Creation." Undergradaute Research Symposium, April 15, 2020. University of Virginia. (Cancelled because of COVID-19)
+
+Allison Bigelow, "Multepal: A Thematic Research Collection about the Popol Wuj." Mellon Indigenous Arts Fellows Symposium, February 7, 2020. University of Virginia.
+
+## 2019
+
+Aldo Barriente, "Indigenous Literatures of the Americas: a digitally annotated edition of the Popol Wuj, the Maya K’iche’ Book of Creation." Undergradaute Research Symposium, April 9, 2020. University of Virginia.
+
+Allison Bigelow, “Technical Literacies and Data Sovereignty: Some Problems in the History of Science and the Digital Humanities.” The Dialectic of Private and Public Knowledge in Early Modern Europe, William Andrews Clark Memorial Library (UCLA), Los Angeles, April 12, 2019.
+
+Allison Bigelow, “Documenting Indigenous Knowledges in a World of Data Sovereignty: Challenges Across Time and Media in the History of Science and Digital Humanities.” University of North Carolina-Asheville, March 1, 2019. (The visit included a guest lecture on the Popol Wuj in "Humanities 214: Communities and Selves, 300-1700," taught by Professor Evan Gurney).
+
+## 2018
+
+Digital Decolonizations: Remediating the Popol Wuj (conference panel PS 24). DH 2018, Mexico City, June 2018. Papers by Pamela Espinosa de los Monteros, Will Hansen, Allison Bigelow and Rafael Alvarado, Karina Baptista, and Catherine Addington. Papers, slides, and youtube presentations available here.
+
+Allison Bigelow, “Technical Literacies and Data Sovereignty: Documenting and Remediating Indigenous Knowledges in Mesoamerica and the Andes.” John Carter Brown Library Fellow’s Talk, Providence, RI, March 21, 2018.
+
+Allison Bigelow, “Technical Literacies and Data Sovereignty: Documenting and Remediating Indigenous Knowledges in Mesoamerica and the Andes.” Indigenous Material and Visual Cultures Working Group, Center for 17th- and 18th-Century Studies, UCLA, Los Angeles, February 21, 2018.

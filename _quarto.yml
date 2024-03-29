@@ -1,6 +1,6 @@
 project:
   type: website
-  title: Multepal
+  title: The Multepal Project
   output-dir: docs
   resources: resources
 
@@ -8,17 +8,22 @@ website:
   title: "Multepal"
   navbar:
     logo: "resources/logo.png"
+    background: "#fdf1e1"
     right:
       - href: index.qmd
         text: Home
-      - href: projects.qmd
+      - href: pages/projects.qmd
         text: Projects
-      - href: team.qmd
+      - href: pages/team.qmd
         text: People
-      - href: variorum.qmd
-        text: Variorum
-      - href: about.qmd
-        text: About
+      - href: pages/dev.qmd
+        text: Development
+      - href: pages/publications.qmd
+        text: Publications
+
+    # sidebar:
+    #   - id
+
 format:
   html:
     theme: cosmo

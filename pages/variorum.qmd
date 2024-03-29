@@ -1,7 +1,4 @@
----
-title: The Popol Wuj Variorum
-format: html
----
+# A _Popol Wuj_ Variorum
 
 ## What is a Variorum?
 
@@ -12,6 +9,7 @@ Each text is connected to its source element by element.
 - An element is a unit of text, such as a paragraph, sentence, folio side, folio line, series of words, word, etc.
 
 ## Examples
+
 - [Shakespeare Varioryum](https://newvariorumshakespeare.org/edition/mnd/)
 
 ## Data Model
@@ -56,6 +54,7 @@ digraph G {
 ```
 
 ## Plan
+
 - Collaborate with Shakespeare Variorum Project at Texas A&amp;M University with Katayoun Torabi) and Laura Mandell, Professor of English at Texas A&M University, Director of the [Center of Digital Humanities Research at TAMU](http://codhr.tamu.edu), and Director of [ARC](http://www.ar-c.org).
 - Create TEI versions of all translations within scope.
 - Create collation (text map) of all element pairs.
@@ -67,7 +66,7 @@ digraph G {
 
 ## Popol Wujs
 
-<a href="resources/info-arch.png"> <img src="resources/info-arch.png" height="450"/> </a>
+<a href="../resources/info-arch.png"> <img src="../resources/info-arch.png" height="450"/> </a>
 
 ```{dot}
 digraph G {
@@ -91,7 +90,6 @@ digraph G {
     COLOP -> ALDO
     COLOP -> VIDEOS
     XIMENEZ -> AHTZIB
-
 
 }
 ```

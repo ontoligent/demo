@@ -1,0 +1,29 @@
+# Projects
+
+The Multepal Project encompasses a number of subprojects that all converge on the general goal of producing new editions of the _Popol Wuj_.These activities are listed below.  
+
+<!--
+For these reasons, we wanted to create a digital edition of the text that would allow readers to appreciate the many meanings and histories embedded in the narrative. This thematic research collection unites key primary sources -- namely, Ximénez's K'iche'- and Spanish-language manuscript (1701-3), as it has been preserved at the Newberry Library and disseminated as pdfs by the Ohio State University Library -- and variant translations, especially Sam Colop (2008), Dennis Tedlock and Andrés Xiloj (1996), and Allen Christenson (2003, 2008). We also make use of secondary work from archaeology, anthropology, art history, history, linguistics, and literary studies, as well as insights from In the future, we hope to add an English-language level using Allen J. Christenson's (2003) literal poetic translation. We also plan to update the site with new research as it becomes available and as our readers share their insights with us.
+-->
+
+## _Popol Wuj_ Editions
+
+[Ajtz'ib'ab' (K'iche')](https://github.com/Multepal/popolwuj-ajtzibab-kiche). A linguistically definitive edition that contains significant orthographic, grammatical, and semantical revisions to the K’iche’ text, based the original manuscript. Developed by the Guatemala team. 
+
+[UVA (Spanish and K'iche')](https://github.com/Multepal/popolwuj-ximenez-original). A TEI-encoded annotated version of the original Ximenez manuscript, using stand-off markup. 
+
+[Fidencio Briceño Chel and Rubén Reyes Ramírez (Spanish and Yukatek)](https://github.com/Multepal/poopolwuuj-chel-yukateko). A TEI-encoded version of the popular edition, developed by the UVA team.
+
+[Samuel Colop 1999 (K'iche')](https://github.com/Multepal/popolwuj-colop-poetica-kiche). A TEI-encoded verion of Colop's edition, developed by the UVA team (Aldo Barriente).
+
+[CTS Compliant](https://github.com/Multepal/CTS). A CTS compliant version of the UVA edition, developed by the UVA team (Aldo Barriente).
+
+## Interactive Tools
+
+[Áanalte](https://multepal.github.io/app-aanalte/). A platform for generating and displaying TEI encoded versions from textual sources.
+
+[Topics and Annotations](http://multepal.spanitalport.virginia.edu/). A database of topics, annotations of primary sources, and a bibliography of primary and secondary sources.
+
+## Documentation
+
+[TEI Schema](https://github.com/Multepal/documentation-schema-texts). Development space for the TEI ODD (schema), TEI headers, and XSLTs used to validate all source texts to be ingested by Multepal/aanalte.

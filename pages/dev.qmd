@@ -1,0 +1,5 @@
+# In Development
+
+## A Variororum
+
+[Project notes](variorum.qmd) on a planned variorum of the _Popol Wuj_.

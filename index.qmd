@@ -1,24 +1,19 @@
+# Weclome
 
-# Multepal
+Welcome to the Multepal Project website.
 
-The Multepal project is dedicated to producing new editions 
-of the _Popol Wuj_, an ancient Maya narrative that is considered 
-to be the most well-known and influential Indigenous text of the 
-pre-1492 Americas. 
+::: {.callout-important style="text-align: center; font-size: 110%;" appearance="simple" icon="false"}
+By entering this site you recognize the data sovereignty of the K'iche' people and the contributions of Indigenous women and men, present and past, to these kinds of scholarly research projects. Users who enter this site agree to use the wisdom and knowledge contained within these pages in ways that honor and respect the art, history, and culture of the K'iche' people.
+:::
 
-With teams in Mexico, Guatemala, and the United States, 
-currently we are making a Yukatek version of the story in video 
-form intended for children and a new K’iche’ version, based on 
-the sole manuscript to survive the colonial era, intended for 
-scholarly use. 
+::: inline-image
+![Source: Herb Roe, CC BY-SA 3.0 via Wikimedia Commons](resources/S.E.C.C._Hero_Twins_4_HRoe_2006.jpg)
+:::
 
-In addition, we have produced annotated digital editions of the 
-original 18th-century manuscript and associated texts, using standards 
-of the Text Encoding Initiative (TEI) and open source principles
-coupled with those of indigenous data sovereignty. Part of this 
-digital edition will be a variorum that integrates all of the project’s texts.
+The Multepal Project is dedicated to producing new editions of the *Popol Wuj*, an ancient Maya narrative that is considered to be the most well-known and influential Indigenous text of the pre-1492 Americas.
 
-These efforts promote language acquisition, literacy skills, and the 
-preservation of cultural heritage among children and adults. They also
-help preserve the two Maya languages, which are endangered.
+With teams in Mexico, Guatemala, and the United States, currently we are making a Yukatek version of the story in video form intended for children and a new K’iche’ version, based on the sole manuscript to survive the colonial era, intended for scholarly use.
 
+In addition, we have produced annotated digital editions of the original 18th-century manuscript and associated texts, using standards of the Text Encoding Initiative (TEI) and open source principles coupled with those of indigenous data sovereignty. Part of this digital edition will be a variorum that integrates all of the project’s texts.
+
+These efforts promote language acquisition, literacy skills, and the preservation of cultural heritage among children and adults. They also help preserve the two Maya languages, which are endangered.
